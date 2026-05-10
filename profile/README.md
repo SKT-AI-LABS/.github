@@ -97,6 +97,8 @@ We believe that the future of AI must be **inclusive, culturally grounded, and s
 | **SKT-SURYA-H** | 2.6T | Vision + Text Generation | 🌐 **Open Source EXPERIMENTAL MOE ** | CC-BY-2.0 |
 | **SKT-OMNI** | 1T | Multi-Modal Vision + Text | 🌐 **Open Source Working REALTY** | CC-BY-2.0 |
 
+**-_->× SURYA-H IS AN EXPERIMENTAL MOE**
+
 ### In Development
 
 | Model | Parameters | Capabilities | Status | Expected |
