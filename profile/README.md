@@ -1,7 +1,7 @@
+
 <div align="center">
 
 # 🌞 SKT AI LABS 
-
 
 <svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -30,15 +30,17 @@
 
 <br>
 
-
-**Our Website** --> www.Sktailabs.in
+**Our Website** → [www.Sktailabs.in](https://www.Sktailabs.in)
 
 ### *The Sovereign AI for Bharat* 🇮🇳
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-sKT--Ai--Labs-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/sKT-Ai-Labs)
+[![GitHub](https://img.shields.io/badge/GitHub-skt--ai--labs-black?style=for-the-badge&logo=github)](https://github.com/skt-ai-labs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SKT--AI--Labs-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/skt-ai-labs)
+[![YouTube](https://img.shields.io/badge/YouTube-@sktailabs-red?style=for-the-badge&logo=youtube)](https://youtube.com/@sktailabs)
+[![X](https://img.shields.io/badge/X-@SKTAILABS-black?style=for-the-badge&logo=x)](https://x.com/SKTAILABS)
 [![License](https://img.shields.io/badge/License-CC--BY--2.0-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://huggingface.co/sKT-Ai-Labs)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](https://huggingface.co/sKT-Ai-Labs)
 
 </div>
 
@@ -117,37 +119,37 @@ We believe that the future of AI must be **inclusive, culturally grounded, and s
 | 🎯 **Accuracy** | Zero-hallucination mandate with advanced instruction-following |
 | 🌐 **Multilingual** | Hindi, English, Hinglish, and Indic language support |
 
-Our Target is To reach 146 Trillon tokens Database
+**Target:** 146 Trillion tokens database
 
 ---
 
 ## 🚀 Model Portfolio
 
+**Note:** Most models are **Closed Source**. Only the experimental MoE variant was attempted to be open-sourced but the experiment did not succeed.
+
 ### Released Models
 
 | Model | Parameters | Capabilities | Status | License |
 |-------|-----------|-------------|--------|---------|
-| **SKT-SURYA-H** | 2.6T | Vision + Text Generation | 🌐 **Open Source EXPERIMENTAL MOE FaILED** | CC-BY-2.0 |
-| **SKT-OMNI** | 1T | Multi-Modal Vision + Text | 🌐 **Next Gen Model** | CC-BY-2.0 |
-| **SKT-ST-X-0** | 49B | Vision + Text Generation | 🌐 **Small but Powerfull** | CC-BY-2.0 |
-| **SKT-TIGER-7B** | 7B | Text Generation | 🌐 **Small but Powerfull** | CC-BY-2.0 |
-| **SKT-ST-X-o** | 1B | Text Classification | 🌐 **Small but Powerful** | CC-BY-2.0 |
-| **SKT-MAX-M1-INSTRUCT ** | 209M |Video Classification| 🌐 **Small but Powerful** | CC-BY-2.0 |
-| **SKT-MAX-IMG** | 1B | Vision Classification  | 🌐 **Small but Powerful** | CC-BY-2.0 |
-| **SKT-SUBASH** | 5B | Video Genration| 🌐 **Video Genration 4 Seconds ** | CC-BY-2.0 |
-| **SKT-BHAGAT-SINGH** | 9B | Image Genration| 🌐 **Nano Image Generation ** | CC-BY-2.0 |
+| **SKT-SURYA-H** | 2.6T | Vision + Text Generation | Experimental MoE (Open Source Attempt - Failed) | CC-BY-2.0 |
+| **SKT-OMNI** | 1T | Multi-Modal Vision + Text | Closed Source | CC-BY-2.0 |
+| **SKT-ST-X-0** | 49B | Vision + Text Generation | Closed Source | CC-BY-2.0 |
+| **SKT-TIGER-7B** | 7B | Text Generation | Closed Source | CC-BY-2.0 |
+| **SKT-ST-X-o** | 1B | Text Classification | Closed Source | CC-BY-2.0 |
+| **SKT-MAX-M1-INSTRUCT** | 209M | Video Classification | Closed Source | CC-BY-2.0 |
+| **SKT-MAX-IMG** | 1B | Vision Classification | Closed Source | CC-BY-2.0 |
+| **SKT-SUBASH** | 5B | Video Generation (4 Seconds) | Closed Source | CC-BY-2.0 |
+| **SKT-BHAGAT-SINGH** | 9B | Image Generation | Closed Source | CC-BY-2.0 |
 
-
-
-**-_->× SURYA-H IS AN EXPERIMENTAL MOE**
+> **SURYA-H IS AN EXPERIMENTAL MOE**
 
 ### In Development
 
 | Model | Parameters | Capabilities | Status | Expected |
 |-------|-----------|-------------|--------|----------|
-| **SKT SURYA-H-x** | 794B | Vision + Audio + Video + Text | 🚧 In Progress | 2027-28 |
-| **ST-X-TTS @** |19B | TTS And Speech To Text | 🔒 Private | In Internal Testing 
-| **Nano GL GML** | 36B | Vision Classification,Video Classification, image,Video Genration | NOV 2026|
+| **SKT SURYA-H-x** | 700B | Vision + Audio + Video + Text | In Progress | 2027-28 |
+| **ST-X-TTS** | 19B | TTS and Speech To Text | Private | Internal Testing |
+| **Nano GL GML** | 36B | Vision, Video Classification & Generation | In Development | Nov 2026 |
 
 ### Model Capabilities
 
@@ -164,6 +166,13 @@ Our Target is To reach 146 Trillon tokens Database
 
 ---
 
+## 📊 Datasets
+
+**SKT-NRS** — High-quality Indic dataset collection  
+[Visit SKT-NRS on Hugging Face](https://huggingface.co/SKT-NRS)
+
+---
+
 ## ⚙️ Technical Specifications
 
 ### Model Architecture
@@ -176,14 +185,10 @@ Specialization:    Advanced Coding, Logical Reasoning, Hinglish Mastery
 Quantization:      GGUF, EXL2, AWQ (Broad Accessibility)
 ```
 
-
-
-
-
 ### Performance Targets
 
 - ✅ **Hallucination Reduction** — Fact-grounded responses
-- ✅ **79+ tok/s** — Real-time ininferenceapability
+- ✅ **79+ tokens/s** — Real-time inference capability
 - ✅ **Deep Hinglish** — Slang, idioms, and dialect mastery
 - ✅ **Multi-Modal** — Text, image, audio, and video understanding
 - ✅ **Energy Efficient** — Optimized for accessible hardware
@@ -196,27 +201,15 @@ Quantization:      GGUF, EXL2, AWQ (Broad Accessibility)
 ┌──────────────────────────────────────────────────────────────┐
 │                    SKT AI LABS ARCHITECTURE                   │
 ├──────────────────────────────────────────────────────────────┤
-│                                                               │
 │   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    │
 │   │   INPUT     │───▶│  PROCESSING │───▶│   OUTPUT    │    │
 │   │   LAYER     │    │   ENGINE    │    │   LAYER     │    │
 │   └─────────────┘    └─────────────┘    └─────────────┘    │
 │         │                   │                   │            │
 │         ▼                   ▼                   ▼            │
-│   ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    │
-│   │  Text       │    │  Custom     │    │  Generated  │    │
-│   │  Image      │───▶│  SKT_ST-X-0 │───▶│  Text       │    │
-│   │  Audio      │    │  Backbone   │    │  Image      │    │
-│   │  Video      │    │  + Experts  │    │  Code       │    │
-│   └─────────────┘    └─────────────┘    └─────────────┘    │
+│   Text/Image/Audio/Video  →  Custom SKT_ST-X-0 + Experts    │
 │                                                               │
-│   ┌─────────────────────────────────────────────────────┐   │
-│   │              INDIAN CONTEXT MODULE                   │   │
-│   │  • Hinglish Tokenizer    • Cultural Context         │   │
-│   │  • Regional Dialects     • Value Alignment          │   │
-│   │  • Local Idioms          • Historical Knowledge     │   │
-│   └─────────────────────────────────────────────────────┘   │
-│                                                               │
+│   INDIAN CONTEXT MODULE (Hinglish, Culture, Values)         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -241,38 +234,19 @@ We welcome contributions from researchers, engineers, data contributors, and AI 
 
 ### How to Contribute
 
-1. **🍴 Fork** the repository
-2. **🌿 Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **💾 Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **📤 Push** to the branch (`git push origin feature/amazing-feature`)
-5. **🔀 Open** a Pull Request
-
-### Contribution Areas
-
-- 🗣️ **Indic Language Data** — High-quality datasets in regional languages
-- 🧠 **Model Improvements** — Architecture optimizations and fine-tuning
-- 📚 **Documentation** — Better docs, tutorials, and examples
-- 🐛 **Bug Reports** — Help us identify and fix issues
-- 💡 **Feature Requests** — Share your ideas for improvement
-
-### Code of Conduct
-
-We are committed to providing a welcoming and inclusive experience for everyone. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
 
 ---
-
-### Our Journey
-
-```
-2023 ──▶ Founded in Sidhi, Madhya Pradesh
-
 
 ## 📜 License
 
 This project is licensed under the **Creative Commons Attribution 2.0 (CC-BY-2.0)** License.
 
-```
-SKT AI LABS Collections: CC-BY-2.0
+**SKT AI LABS Collections: CC-BY-2.0**
 
 ---
 
@@ -281,18 +255,14 @@ SKT AI LABS Collections: CC-BY-2.0
 <div align="center">
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-sKT--Ai--Labs-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/sKT-Ai-Labs)
+[![GitHub](https://img.shields.io/badge/GitHub-skt--ai--labs-black?style=for-the-badge&logo=github)](https://github.com/skt-ai-labs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SKT--AI--Labs-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/skt-ai-labs)
+[![YouTube](https://img.shields.io/badge/YouTube-@sktailabs-red?style=for-the-badge&logo=youtube)](https://youtube.com/@sktailabs)
+[![X](https://img.shields.io/badge/X-@SKTAILABS-black?style=for-the-badge&logo=x)](https://x.com/SKTAILABS)
 
 **We are actively seeking collaborators, researchers, and partners who want to build Bharat's own frontier AI.**
 
-</div>
-
----
-
-<div align="center">
-
 ### 🌟 Developed with ❤️ in Sidhi, Madhya Pradesh, India 🇮🇳
 
-**Jai Hind! Let's build the future of Indian AI together.** 🚀
-
----
+**Jai Hind! Let's build the future of AI Together 🔥**
 
