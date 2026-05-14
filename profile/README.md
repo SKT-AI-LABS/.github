@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🌞 SKT AI LABS
+**Sktailabs.in**
 
 ### *The Sovereign AI for Bharat* 🇮🇳
 
@@ -234,39 +235,7 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 
 ```
 2023 ──▶ Founded in Sidhi, Madhya Pradesh
-    │
-    ├──▶ Started curating high-quality Indic datasets
-    │
-    ├──▶ Developed custom architectures for Indian hardware realities
-    │
-    ├──▶ Trained first generation of SKT models
-    │
-2026 ──▶ Open-sourced SKT-OMNI (1T params)
-    │
-    ├──▶ Open-sourced SKT-SURYA-H (2.6T params) EXPERIMENTAL - MOE 
-    │
-    ├──▶ Built 16× A100 training cluster with 8EB storage
-    │
-2026 ──▶ Developing SKT SURYA-H-x (Vision + Audio + Video + Text)
-    │
-    └──▶ Expanding community and partnerships
-```
 
----
-
-## 🙏 Acknowledgments
-
-We extend our sincere gratitude to the open-source community and the following organizations for their foundational contributions:
-
-| Organization | Contribution |
-|-------------|-------------|
-| **Meta** | Llama 3.1 405B — Foundational architecture insights |
-| **DeepSeek** | DeepSeek-V3, DeepSeek-R1 — Training methodologies |
-| **GLM Family** | Supporting models for specific expert clusters |
-| **Hugging Face** | Model hosting and community platform |
-| **Open Source Community** | Tools, libraries, and endless inspiration |
-
----
 
 ## 📜 License
 
@@ -274,14 +243,6 @@ This project is licensed under the **Creative Commons Attribution 2.0 (CC-BY-2.0
 
 ```
 SKT AI LABS Collections: CC-BY-2.0
-
-Users must comply with all base model licenses including but not limited to:
-• Llama 3.1 Community License Agreement
-• MIT License (where applicable)
-• Other applicable open-source licenses
-```
-
-See [LICENSE](LICENSE) for full details.
 
 ---
 
