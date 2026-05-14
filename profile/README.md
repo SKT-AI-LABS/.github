@@ -86,6 +86,8 @@ We believe that the future of AI must be **inclusive, culturally grounded, and s
 | 🎯 **Accuracy** | Zero-hallucination mandate with advanced instruction-following |
 | 🌐 **Multilingual** | Hindi, English, Hinglish, and Indic language support |
 
+Our Target is To reach 146 Trillon tokens Database
+
 ---
 
 ## 🚀 Model Portfolio
@@ -94,8 +96,17 @@ We believe that the future of AI must be **inclusive, culturally grounded, and s
 
 | Model | Parameters | Capabilities | Status | License |
 |-------|-----------|-------------|--------|---------|
-| **SKT-SURYA-H** | 2.6T | Vision + Text Generation | 🌐 **Open Source EXPERIMENTAL MOE ** | CC-BY-2.0 |
-| **SKT-OMNI** | 1T | Multi-Modal Vision + Text | 🌐 **Open Source Working REALTY** | CC-BY-2.0 |
+| **SKT-SURYA-H** | 2.6T | Vision + Text Generation | 🌐 **Open Source EXPERIMENTAL MOE FaILED** | CC-BY-2.0 |
+| **SKT-OMNI** | 1T | Multi-Modal Vision + Text | 🌐 **Next Gen Model** | CC-BY-2.0 |
+| **SKT-ST-X-0** | 49B | Vision + Text Generation | 🌐 **Small but Powerfull** | CC-BY-2.0 |
+| **SKT-TIGER-7B** | 7B | Text Generation | 🌐 **Small but Powerfull** | CC-BY-2.0 |
+| **SKT-ST-X-o** | 1B | Text Classification | 🌐 **Small but Powerful** | CC-BY-2.0 |
+| **SKT-MAX-M1-INSTRUCT ** | 209M |Video Classification| 🌐 **Small but Powerful** | CC-BY-2.0 |
+| **SKT-MAX-IMG** | 1B | Vision Classification  | 🌐 **Small but Powerful** | CC-BY-2.0 |
+| **SKT-SUBASH** | 5B | Video Genration| 🌐 **Video Genration 4 Seconds ** | CC-BY-2.0 |
+| **SKT-BHAGAT-SINGH** | 9B | Image Genration| 🌐 **Nano Image Generation ** | CC-BY-2.0 |
+
+
 
 **-_->× SURYA-H IS AN EXPERIMENTAL MOE**
 
@@ -103,8 +114,9 @@ We believe that the future of AI must be **inclusive, culturally grounded, and s
 
 | Model | Parameters | Capabilities | Status | Expected |
 |-------|-----------|-------------|--------|----------|
-| **SKT SURYA-H-x** | 2T | Vision + Audio + Video + Text | 🚧 In Progress | 2027 |
-| **ST-X + ST-ZX@** | — | Text Generation + Image Understanding | 🔒 Private | Internal |
+| **SKT SURYA-H-x** | 794B | Vision + Audio + Video + Text | 🚧 In Progress | 2027-28 |
+| **ST-X-TTS @** |19B | TTS And Speech To Text | 🔒 Private | In Internal Testing 
+| **Nano GL GML** | 36B | Vision Classification,Video Classification, image,Video Genration | NOV 2026|
 
 ### Model Capabilities
 
@@ -133,28 +145,14 @@ Specialization:    Advanced Coding, Logical Reasoning, Hinglish Mastery
 Quantization:      GGUF, EXL2, AWQ (Broad Accessibility)
 ```
 
-### Training Infrastructure
 
-| Component | Specification |
-|-----------|--------------|
-| **Compute** | 16× NVIDIA A100 GPU Nodes |
-| **Storage** | 8 EB (Exabyte) Cluster |
-| **Framework** | Custom optimized training pipeline |
 
-### Training Data
 
-| Dataset | Size | Description |
-|---------|------|-------------|
-| **Indic Corpus** | 16T+ tokens | Cleaned Hindi/Indic language tokens |
-| **Magnum Corpus** | 10.26 TB | High-entropy diverse dataset |
-| **Hinglish Dataset** | 10M+ samples | High-quality Hinglish with deep reasoning chains |
-| **Vedic/Sanskrit** | Private | Specialized cultural and historical corpus |
-| **Coding Examples** | Extensive | Programming and logical reasoning data |
 
 ### Performance Targets
 
-- ✅ **Zero Hallucination** — Fact-grounded responses
-- ✅ **110+ tok/s** — Real-time inference capability
+- ✅ **Hallucination Reduction** — Fact-grounded responses
+- ✅ **79+ tok/s** — Real-time ininferenceapability
 - ✅ **Deep Hinglish** — Slang, idioms, and dialect mastery
 - ✅ **Multi-Modal** — Text, image, audio, and video understanding
 - ✅ **Energy Efficient** — Optimized for accessible hardware
