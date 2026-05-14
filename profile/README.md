@@ -2,6 +2,35 @@
 
 # 🌞 SKT AI LABS 
 
+
+<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4500">
+        <animate attributeName="stop-color" values="#FF4500;#FF8C00;#FFD700;#00FF9F;#00FFFF;#FF1493;#FF4500" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00FFFF">
+        <animate attributeName="stop-color" values="#00FFFF;#FF1493;#FF4500;#FF8C00;#FFD700;#00FF9F;#00FFFF" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#0A0A2A" rx="20"/>
+  
+  <text x="50%" y="55%" dy=".35em" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="52" font-weight="900" fill="url(#rainbow)" opacity="1">
+    SKT AI LABS
+    <animate attributeName="opacity" values="0.8;1;1;0.8" dur="3s" repeatCount="indefinite" />
+  </text>
+  
+  <text x="50%" y="82%" dy=".25em" text-anchor="middle" font-family="Courier New, monospace" font-size="22" fill="#FFD700" opacity="1" font-weight="bold">
+    THE SOVEREIGN AI FOR BHARAT
+    <animate attributeName="opacity" values="0.7;1;1;0.7" dur="4s" repeatCount="indefinite" begin="0.5s" />
+  </text>
+</svg>
+
+<br>
+
+
 **Our Website** --> www.Sktailabs.in
 
 ### *The Sovereign AI for Bharat* 🇮🇳
