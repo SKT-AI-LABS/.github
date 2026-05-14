@@ -2,7 +2,7 @@
 
 # 🌞 SKT AI LABS
 
---) **Our Website** --> **Sktailabs.in*
+--) **Our Website** --> www.Sktailabs.in
 
 ### *The Sovereign AI for Bharat* 🇮🇳
 
