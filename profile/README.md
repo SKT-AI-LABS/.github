@@ -132,7 +132,7 @@ We believe that the future of AI must be **inclusive, culturally grounded, and s
 | Model | Parameters | Capabilities | Status | License |
 |-------|-----------|-------------|--------|---------|
 | **SKT-SURYA-H** | 2.6T | Vision + Text Generation | Experimental MoE (Open Source Attempt - Failed) | CC-BY-2.0 |
-| **SKT-OMNI** | 1T, 481B ,170B 19B| Multi-Modal Vision + Text | Closed Source | CC-BY-2.0 |
+| **SKT-OMNI** |1.2T, 1T, 481B ,170B 19B| Multi-Modal Vision + Text | Closed Source | CC-BY-2.0 |
 | **SKT-ST-X-0** | 49B | Vision + Text Generation | Closed Source | CC-BY-2.0 |
 | **SKT-TIGER-7B** | 7B | Text Generation | Closed Source | CC-BY-2.0 |
 | **SKT-ST-X-o** | 1B | Text Classification | Closed Source | CC-BY-2.0 |
